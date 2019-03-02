@@ -6,7 +6,7 @@
 /*   By: osloboda <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/12/01 19:37:02 by osloboda          #+#    #+#             */
-/*   Updated: 2018/12/13 15:36:51 by osloboda         ###   ########.fr       */
+/*   Updated: 2019/03/02 16:43:52 by osloboda         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 # define FILLIT_H
 
 # include "fcntl.h"
-# include "libft.h"
+# include "Libft/libft.h"
 
 typedef struct		s_figure
 {
